@@ -1,0 +1,6 @@
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/annalalal632/repo3.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/annalalal632/repo2.git
